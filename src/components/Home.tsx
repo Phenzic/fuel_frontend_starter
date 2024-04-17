@@ -7,7 +7,7 @@ import { fetchBalance, getUserAddress } from "./contractUtils";
 import ProposalCount from "./proposalCount";
 import styles from "./styles";
 
-const CONTRACT_ID = "0xe1a2a7ebadc501e173c9f4bd08665a49e1e32571453f883d68c1c4cb7fc46363";
+const CONTRACT_ID = "";
 
 
 const Home: React.FC = () => {
